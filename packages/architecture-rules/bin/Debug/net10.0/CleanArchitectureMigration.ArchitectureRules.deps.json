@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CleanArchitectureMigration.ArchitectureRules/1.0.0": {
+        "dependencies": {
+          "CleanArchitectureMigration.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitectureMigration.ArchitectureRules.dll": {}
+        }
+      },
+      "CleanArchitectureMigration.Contracts/1.0.0": {
+        "runtime": {
+          "CleanArchitectureMigration.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchitectureMigration.ArchitectureRules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitectureMigration.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+<Solution>
+  <Folder Name="/apps/" />
+  <Folder Name="/apps/api/">
+    <Project Path="apps/api/CleanArchitectureMigration.Api.csproj" />
+  </Folder>
+  <Folder Name="/packages/" />
+  <Folder Name="/packages/architecture-rules/">
+    <Project Path="packages/architecture-rules/CleanArchitectureMigration.ArchitectureRules.csproj" />
+  </Folder>
+  <Folder Name="/packages/migration-contracts/">
+    <Project Path="packages/migration-contracts/CleanArchitectureMigration.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/services/" />
+  <Folder Name="/services/dotnet-worker/">
+    <Project Path="services/dotnet-worker/CleanArchitectureMigration.DotNetWorker.csproj" />
+  </Folder>
+  <Folder Name="/services/java-worker/">
+    <Project Path="services/java-worker/CleanArchitectureMigration.JavaWorker.csproj" />
+  </Folder>
+  <Folder Name="/services/migration-orchestrator/">
+    <Project Path="services/migration-orchestrator/CleanArchitectureMigration.Orchestrator.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/unit-tests/">
+    <Project Path="tests/unit-tests/CleanArchitectureMigration.Tests.csproj" />
+  </Folder>
+</Solution>

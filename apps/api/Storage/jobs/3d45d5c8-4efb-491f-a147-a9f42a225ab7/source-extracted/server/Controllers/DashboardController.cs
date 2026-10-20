@@ -1,0 +1,33 @@
+using LibraryManagement.Api.Common.Responses;
+using LibraryManagement.Api.DTOs;
+using LibraryManagement.Api.Services.Interfaces;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
+namespace LibraryManagement.Api.Controllers;
+
+[ApiController]
+[Route("api/dashboard")]
+public class DashboardController : ControllerBase
+{
+    private readonly IDashboardService _dashboardService;
+
+    public DashboardController(IDashboardService dashboardService)
+    {
+        _dashboardService = dashboardService;
+    }
+
+    [HttpGet("stats")]
+    [Authorize]
+    public async Task<IActionResult> GetStats()
+    {
+        var stats = await _dashboardService.GetStatsAsync();
+
+        return Ok(new ApiResponse<DashboardDto>
+        {
+            Success = true,
+            Message = "Dashboard stats retrieved successfully.",
+            Data = stats
+        });
+    }
+}

@@ -1,0 +1,34 @@
+/Users/aravind.vh/testproj/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.JavaWorker.deps.json
+/Users/aravind.vh/testproj/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.JavaWorker.dll
+/Users/aravind.vh/testproj/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.JavaWorker.pdb
+/Users/aravind.vh/testproj/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.dll
+/Users/aravind.vh/testproj/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.pdb
+/Users/aravind.vh/testproj/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.pdb
+/Users/aravind.vh/testproj/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.csproj.AssemblyReference.cache
+/Users/aravind.vh/testproj/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravind.vh/testproj/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.csproj.CoreCompileInputs.cache
+/Users/aravind.vh/testproj/services/java-worker/obj/Debug/net10.0/CleanArc.8FFB1F2D.Up2Date
+/Users/aravind.vh/testproj/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.dll
+/Users/aravind.vh/testproj/services/java-worker/obj/Debug/net10.0/refint/CleanArchitectureMigration.JavaWorker.dll
+/Users/aravind.vh/testproj/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.pdb
+/Users/aravind.vh/testproj/services/java-worker/obj/Debug/net10.0/ref/CleanArchitectureMigration.JavaWorker.dll
+/Users/aravind.vh/testproj/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.AssemblyInfoInputs.cache
+/Users/aravind.vh/testproj/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.AssemblyInfo.cs
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.JavaWorker.deps.json
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.JavaWorker.dll
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.JavaWorker.pdb
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.dll
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.pdb
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.pdb
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.csproj.AssemblyReference.cache
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.AssemblyInfoInputs.cache
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.AssemblyInfo.cs
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.csproj.CoreCompileInputs.cache
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/obj/Debug/net10.0/CleanArc.8FFB1F2D.Up2Date
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.dll
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/obj/Debug/net10.0/refint/CleanArchitectureMigration.JavaWorker.dll
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/obj/Debug/net10.0/CleanArchitectureMigration.JavaWorker.pdb
+/Users/aravind.vh/testproj backeup stable version/services/java-worker/obj/Debug/net10.0/ref/CleanArchitectureMigration.JavaWorker.dll

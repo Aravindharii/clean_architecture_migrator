@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "9MbBmbe3DEY=",
+  "success": true,
+  "projectFilePath": "/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/CleanArchitectureMigration.Orchestrator.csproj",
+  "expectedPackageFiles": [
+    "/Users/aravind.vh/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/aravind.vh/.nuget/packages/microsoft.codeanalysis.analyzers/5.9.0-1.26328.17/microsoft.codeanalysis.analyzers.5.9.0-1.26328.17.nupkg.sha512",
+    "/Users/aravind.vh/.nuget/packages/microsoft.codeanalysis.common/5.9.0/microsoft.codeanalysis.common.5.9.0.nupkg.sha512",
+    "/Users/aravind.vh/.nuget/packages/microsoft.codeanalysis.csharp/5.9.0/microsoft.codeanalysis.csharp.5.9.0.nupkg.sha512",
+    "/Users/aravind.vh/.nuget/packages/microsoft.codeanalysis.csharp.workspaces/5.9.0/microsoft.codeanalysis.csharp.workspaces.5.9.0.nupkg.sha512",
+    "/Users/aravind.vh/.nuget/packages/microsoft.codeanalysis.workspaces.common/5.9.0/microsoft.codeanalysis.workspaces.common.5.9.0.nupkg.sha512",
+    "/Users/aravind.vh/.nuget/packages/system.composition/10.0.1/system.composition.10.0.1.nupkg.sha512",
+    "/Users/aravind.vh/.nuget/packages/system.composition.attributedmodel/10.0.1/system.composition.attributedmodel.10.0.1.nupkg.sha512",
+    "/Users/aravind.vh/.nuget/packages/system.composition.convention/10.0.1/system.composition.convention.10.0.1.nupkg.sha512",
+    "/Users/aravind.vh/.nuget/packages/system.composition.hosting/10.0.1/system.composition.hosting.10.0.1.nupkg.sha512",
+    "/Users/aravind.vh/.nuget/packages/system.composition.runtime/10.0.1/system.composition.runtime.10.0.1.nupkg.sha512",
+    "/Users/aravind.vh/.nuget/packages/system.composition.typedparts/10.0.1/system.composition.typedparts.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

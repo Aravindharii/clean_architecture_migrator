@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\packages\migration-contracts\CleanArchitectureMigration.Contracts.csproj" />
+    <ProjectReference Include="..\..\packages\architecture-rules\CleanArchitectureMigration.ArchitectureRules.csproj" />
+    <ProjectReference Include="..\dotnet-worker\CleanArchitectureMigration.DotNetWorker.csproj" />
+    <ProjectReference Include="..\java-worker\CleanArchitectureMigration.JavaWorker.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

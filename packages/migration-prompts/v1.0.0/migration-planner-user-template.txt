@@ -1,0 +1,24 @@
+Analyze the following project intermediate representation (IR) and propose a Clean Architecture migration plan.
+
+PROJECT METADATA:
+Language: {{Language}}
+Framework: {{Framework}}
+Build System: {{BuildSystem}}
+Source Hash: {{SourceHash}}
+
+DETECTED MODULES:
+{{ModulesJson}}
+
+SOURCE FILES AND SYMBOLS:
+{{SymbolsJson}}
+
+ARCHITECTURAL VIOLATIONS DETECTED BY STATIC RULES:
+{{ViolationsJson}}
+
+DATABASE & EXTERNAL DEPENDENCIES:
+{{DatabaseDependenciesJson}}
+
+USER CUSTOM INSTRUCTIONS:
+{{CustomInstructions}}
+
+Output a complete, valid JSON object conforming to the MigrationPlan schema.

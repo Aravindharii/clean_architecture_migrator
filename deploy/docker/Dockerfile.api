@@ -1,0 +1,23 @@
+FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
+WORKDIR /src
+
+COPY CleanArchitectureMigration.slnx .
+COPY packages/migration-contracts/ packages/migration-contracts/
+COPY packages/architecture-rules/ packages/architecture-rules/
+COPY services/migration-orchestrator/ services/migration-orchestrator/
+COPY services/dotnet-worker/ services/dotnet-worker/
+COPY services/java-worker/ services/java-worker/
+COPY apps/api/ apps/api/
+
+RUN dotnet restore CleanArchitectureMigration.slnx
+RUN dotnet publish apps/api/CleanArchitectureMigration.Api.csproj -c Release -o /app/publish
+
+FROM mcr.microsoft.com/dotnet/aspnet:10.0 AS final
+WORKDIR /app
+EXPOSE 5000
+ENV ASPNETCORE_URLS=http://+:5000
+ENV Storage__BasePath=/app/storage
+VOLUME ["/app/storage"]
+
+COPY --from=build /app/publish .
+ENTRYPOINT ["dotnet", "CleanArchitectureMigration.Api.dll"]

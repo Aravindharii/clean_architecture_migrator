@@ -1,0 +1,30 @@
+/Users/aravind.vh/testproj/packages/architecture-rules/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.deps.json
+/Users/aravind.vh/testproj/packages/architecture-rules/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.dll
+/Users/aravind.vh/testproj/packages/architecture-rules/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.pdb
+/Users/aravind.vh/testproj/packages/architecture-rules/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj/packages/architecture-rules/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.pdb
+/Users/aravind.vh/testproj/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.csproj.AssemblyReference.cache
+/Users/aravind.vh/testproj/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravind.vh/testproj/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.csproj.CoreCompileInputs.cache
+/Users/aravind.vh/testproj/packages/architecture-rules/obj/Debug/net10.0/CleanArc.BCCA6620.Up2Date
+/Users/aravind.vh/testproj/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.dll
+/Users/aravind.vh/testproj/packages/architecture-rules/obj/Debug/net10.0/refint/CleanArchitectureMigration.ArchitectureRules.dll
+/Users/aravind.vh/testproj/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.pdb
+/Users/aravind.vh/testproj/packages/architecture-rules/obj/Debug/net10.0/ref/CleanArchitectureMigration.ArchitectureRules.dll
+/Users/aravind.vh/testproj/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.AssemblyInfoInputs.cache
+/Users/aravind.vh/testproj/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.AssemblyInfo.cs
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.deps.json
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.dll
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.pdb
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.pdb
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.csproj.AssemblyReference.cache
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.AssemblyInfoInputs.cache
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.AssemblyInfo.cs
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.csproj.CoreCompileInputs.cache
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/obj/Debug/net10.0/CleanArc.BCCA6620.Up2Date
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.dll
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/obj/Debug/net10.0/refint/CleanArchitectureMigration.ArchitectureRules.dll
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/obj/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.pdb
+/Users/aravind.vh/testproj backeup stable version/packages/architecture-rules/obj/Debug/net10.0/ref/CleanArchitectureMigration.ArchitectureRules.dll

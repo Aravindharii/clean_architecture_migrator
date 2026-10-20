@@ -1,0 +1,67 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: cleanarch_postgres
+    environment:
+      POSTGRES_DB: cleanarch_migration
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: migration_secure_pass123
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d cleanarch_migration"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: cleanarch_rabbitmq
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "check_port_connectivity"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  api:
+    build:
+      context: ../../
+      dockerfile: deploy/docker/Dockerfile.api
+    container_name: cleanarch_api
+    depends_on:
+      postgres:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    environment:
+      ConnectionStrings__PostgreSQL: "Host=postgres;Port=5432;Database=cleanarch_migration;Username=postgres;Password=migration_secure_pass123"
+      RabbitMQ__Host: "rabbitmq"
+      Storage__BasePath: "/app/storage"
+    ports:
+      - "5000:5000"
+    volumes:
+      - shared_storage:/app/storage
+
+  web:
+    build:
+      context: ../../
+      dockerfile: deploy/docker/Dockerfile.web
+    container_name: cleanarch_web
+    depends_on:
+      - api
+    ports:
+      - "3000:80"
+
+volumes:
+  postgres_data:
+  shared_storage:

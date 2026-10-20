@@ -1,0 +1,42 @@
+/Users/aravind.vh/testproj/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.Orchestrator.deps.json
+/Users/aravind.vh/testproj/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.Orchestrator.dll
+/Users/aravind.vh/testproj/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.Orchestrator.pdb
+/Users/aravind.vh/testproj/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.dll
+/Users/aravind.vh/testproj/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.DotNetWorker.dll
+/Users/aravind.vh/testproj/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.JavaWorker.dll
+/Users/aravind.vh/testproj/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.pdb
+/Users/aravind.vh/testproj/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.pdb
+/Users/aravind.vh/testproj/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.DotNetWorker.pdb
+/Users/aravind.vh/testproj/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.JavaWorker.pdb
+/Users/aravind.vh/testproj/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.csproj.AssemblyReference.cache
+/Users/aravind.vh/testproj/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravind.vh/testproj/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.csproj.CoreCompileInputs.cache
+/Users/aravind.vh/testproj/services/migration-orchestrator/obj/Debug/net10.0/CleanArc.FF17E1EF.Up2Date
+/Users/aravind.vh/testproj/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.dll
+/Users/aravind.vh/testproj/services/migration-orchestrator/obj/Debug/net10.0/refint/CleanArchitectureMigration.Orchestrator.dll
+/Users/aravind.vh/testproj/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.pdb
+/Users/aravind.vh/testproj/services/migration-orchestrator/obj/Debug/net10.0/ref/CleanArchitectureMigration.Orchestrator.dll
+/Users/aravind.vh/testproj/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.AssemblyInfoInputs.cache
+/Users/aravind.vh/testproj/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.AssemblyInfo.cs
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.Orchestrator.deps.json
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.Orchestrator.dll
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.Orchestrator.pdb
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.dll
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.DotNetWorker.dll
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.JavaWorker.dll
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.pdb
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.ArchitectureRules.pdb
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.DotNetWorker.pdb
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/bin/Debug/net10.0/CleanArchitectureMigration.JavaWorker.pdb
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.csproj.AssemblyReference.cache
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.AssemblyInfoInputs.cache
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.AssemblyInfo.cs
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.csproj.CoreCompileInputs.cache
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/obj/Debug/net10.0/CleanArc.FF17E1EF.Up2Date
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.dll
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/obj/Debug/net10.0/refint/CleanArchitectureMigration.Orchestrator.dll
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/obj/Debug/net10.0/CleanArchitectureMigration.Orchestrator.pdb
+/Users/aravind.vh/testproj backeup stable version/services/migration-orchestrator/obj/Debug/net10.0/ref/CleanArchitectureMigration.Orchestrator.dll

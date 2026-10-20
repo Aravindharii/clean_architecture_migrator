@@ -1,0 +1,22 @@
+/Users/aravind.vh/testproj/packages/migration-contracts/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.deps.json
+/Users/aravind.vh/testproj/packages/migration-contracts/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj/packages/migration-contracts/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.pdb
+/Users/aravind.vh/testproj/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravind.vh/testproj/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.csproj.CoreCompileInputs.cache
+/Users/aravind.vh/testproj/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj/packages/migration-contracts/obj/Debug/net10.0/refint/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.pdb
+/Users/aravind.vh/testproj/packages/migration-contracts/obj/Debug/net10.0/ref/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.AssemblyInfoInputs.cache
+/Users/aravind.vh/testproj/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.AssemblyInfo.cs
+/Users/aravind.vh/testproj backeup stable version/packages/migration-contracts/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.deps.json
+/Users/aravind.vh/testproj backeup stable version/packages/migration-contracts/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj backeup stable version/packages/migration-contracts/bin/Debug/net10.0/CleanArchitectureMigration.Contracts.pdb
+/Users/aravind.vh/testproj backeup stable version/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravind.vh/testproj backeup stable version/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.AssemblyInfoInputs.cache
+/Users/aravind.vh/testproj backeup stable version/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.AssemblyInfo.cs
+/Users/aravind.vh/testproj backeup stable version/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.csproj.CoreCompileInputs.cache
+/Users/aravind.vh/testproj backeup stable version/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj backeup stable version/packages/migration-contracts/obj/Debug/net10.0/refint/CleanArchitectureMigration.Contracts.dll
+/Users/aravind.vh/testproj backeup stable version/packages/migration-contracts/obj/Debug/net10.0/CleanArchitectureMigration.Contracts.pdb
+/Users/aravind.vh/testproj backeup stable version/packages/migration-contracts/obj/Debug/net10.0/ref/CleanArchitectureMigration.Contracts.dll
